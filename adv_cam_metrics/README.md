@@ -30,7 +30,7 @@
 
 ## Состав проекта
 
-- `advertising_campaign_metrics_cleaned.ipynb` — ноутбук с расчётами и визуализациями
+- `advertising_campaign_metrics.ipynb` — ноутбук с расчётами и визуализациями
 - `README.md` — описание проекта и методологии
 
 ## Контакты
