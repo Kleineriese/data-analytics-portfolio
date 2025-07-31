@@ -34,4 +34,4 @@
 ## Контакты
 
 **Руслан Бурдуковский**  
-[GitHub](https://github.com/...) | [Telegram](https://t.me/...) | [Email](mailto:you@example.com)
+[GitHub](https://github.com/Kleineriese)| [Telegram](https://t.me/kleineriese) | [Email](mailto:ruslanritmix@gmail.com)
