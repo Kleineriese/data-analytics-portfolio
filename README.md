@@ -13,7 +13,7 @@
    Сегментация, выявление рисковых групп, рекомендации по удержанию.  
    *Инструменты: Python, seaborn, pandas*
 
-3. LTV, ROI, CAC: Анализ рекламных кампаний приложения  
+3. [LTV, ROI, CAC: Анализ рекламных кампаний приложения  ](https://github.com/Kleineriese/data-analytics-portfolio/tree/main/adv_cam_metrics)
    Оценка эффективности маркетинга и поиск точек роста.  
    *Инструменты: Python, matplotlib, numpy*
 
