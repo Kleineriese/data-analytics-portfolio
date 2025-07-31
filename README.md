@@ -9,7 +9,7 @@
    Проверка гипотез на рост выручки, статистический анализ, визуализация результатов.  
    *Инструменты: Python, pandas, SciPy, matplotlib*
 
-2. Анализ оттока клиентов банка  
+2. [Анализ оттока клиентов банка](https://github.com/Kleineriese/data-analytics-portfolio/tree/main/bank_customer_churn)  
    Сегментация, выявление рисковых групп, рекомендации по удержанию.  
    *Инструменты: Python, seaborn, pandas*
 
