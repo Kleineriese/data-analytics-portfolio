@@ -27,7 +27,7 @@
 
 ## Состав проекта
 
-- `nps_tableau_cleaned.ipynb` — подготовка и анализ данных
+- `nps_tableau.ipynb` — подготовка и анализ данных
 - `README.md` — описание проекта и структуры работы
 - `Tableau Public` — [дашборд](https://public.tableau.com/app/profile/ruslan.burduko/viz/2_17149341642090/NPS_1?publish=yes)
 
