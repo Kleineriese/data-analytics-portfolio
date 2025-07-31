@@ -17,11 +17,11 @@
    Оценка эффективности маркетинга и поиск точек роста.  
    *Инструменты: Python, matplotlib, numpy*
 
-4. Дашборды и анализ NPS  
+4. [Дашборды и анализ NPS](https://github.com/Kleineriese/data-analytics-portfolio/tree/main/nps_tableau)  
    SQL-запросы, визуализация в Tableau, отчётность по удовлетворённости клиентов.  
    *Инструменты: SQL, Tableau*  
 
-6. Анализ базы данных книжного сервиса  
+5. [Анализ базы данных книжного сервиса](https://github.com/Kleineriese/data-analytics-portfolio/tree/main/books_sql)  
    Исследование пользовательской активности и паттернов чтения.  
    *Инструменты: SQL*  
 
